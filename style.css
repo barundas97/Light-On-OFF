@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.container{
+    text-align: center;
+    background-color: black;
+    margin: auto;
+    width: 300px;
+    height: 200px;
+}
+button{
+    margin: 15px;
+}
+#light{
+    height: 160px;
+    width: 160px;
+    background-color: black;
+    margin:5px auto;
+    border-radius: 90px;
+    box-shadow: 0px 0px 11px 15px black;
+    margin-top: 90px;
+}
+#on , #off{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    width: 130px
+}
+#on:hover{
+    background-color: steelblue;
+}
+#off:hover{
+    background-color: steelblue;
+}
